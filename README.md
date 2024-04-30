@@ -38,10 +38,13 @@ To calculate the entropy of the pruned ResNet-18 on CIFAR-10:
 ## Citation
 If you find this useful for your research, please cite the following paper.
 ```
-@article{quétu2023dsd2,
-        title={DSD$^2$: Can We Dodge Sparse Double Descent and Compress the Neural Network Worry-Free?}, 
-        author={Victor Quétu and Enzo Tartaglione},
-        journal={arXiv preprint arXiv:2303.01213},
-        year={2023}
-    }
+@inproceedings{quetu2024dsd2,
+  title={DSD$^2$: Can We Dodge Sparse Double Descent and Compress the Neural Network Worry-Free?},
+  author={Qu{\'e}tu, Victor and Tartaglione, Enzo},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={13},
+  pages={14749--14757},
+  year={2024}
+}
 ```
