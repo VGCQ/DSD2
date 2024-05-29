@@ -4,9 +4,9 @@
 
 This GitHub implements the key experiments of the following paper : [DSD<sup>2</sup> : can we Dodge Sparse Double Descent and compress the neural network worry-free?](https://arxiv.org/abs/2303.01213.pdf).
 
-
-<img src="images/AAAI24_teaser_image.png" width="400"/>
-
+<p align="center">
+  <img src="images/AAAI24_teaser_image.png" width="400"/>
+</p>
 
 ## Libraries
 * Python = 3.10
